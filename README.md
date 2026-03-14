@@ -18,6 +18,10 @@ Due to data usage restrictions, the dataset cannot be publicly redistributed.
 - Chi-square Test
 - Cramér’s V
 
+## Key Findings
+The chi-square test found a statistically significant association between annual household income and political party identification among five ethnic minority voters.
+However, the strength of the association was weak, indicating that income explains only a small part of political party identification.
+
 ## Repository Structure
 data/ → dataset notice  
 figures/ → visualization  
